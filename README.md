@@ -87,9 +87,9 @@ $ yarn dev
 
 <img align="left" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />
 
-<img align="left" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/140611/Fauna-logo-color-status.png" alt="FaunaDB" height="75" />
+<img align="left" src="https://pipedream.com/s.v0/app_1M0hkk/logo/orig" alt="ImgBB" height="75" />
 
-<img align="left" src="https://simgbb.com/images/logo.png" alt="ImgBB" />
+<img align="left" src="https://dka575ofm4ao0.cloudfront.net/pages-transactional_logos/retina/140611/Fauna-logo-color-status.png" alt="FaunaDB" height="75" />
 
 <br><br><br><br><br><br>
 
